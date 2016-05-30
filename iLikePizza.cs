@@ -829,7 +829,7 @@ public class RobotC : MonoBehaviour
                 lengthOldPos = lengthListNewPos;
                 lengthListNewPos = 0;
             }
-            Debug.Log("Closest Cell: "+lastPos.x+" "lastPos.y);
+            Debug.Log("Closest Cell: "+lastPos.x+" "+lastPos.y);
             //estrapolo il percorso
             //CONTROLLARE PRIMA SE LA POSIZIONE TROVARTA è GIUSTA
             /*
