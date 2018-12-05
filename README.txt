@@ -1,8 +1,10 @@
-Progetto creato da Simone S. per l'esame di maturita all'Itis Vito Volterra (2016).
+﻿# High school diploma thesis project  
+Project created by Simone S. for the High school diploma @ Itis Vito Volterra (2016).  
 
-Aggiornamento
-	24.07.2016
-		Fine progetto
-	27.11.2016
-		Compatibilità con Unity beta 5.5
-		Fix di alcuni bug
+## Updates  
+### 07.24.2016  
+Project completed  
+### 11.27.2016  
+Project compatibility update to Unity beta 5.5 & bugfix  
+### 12.5.2018  
+Preoject structure reorganisation & creation of a website showcasing the project
